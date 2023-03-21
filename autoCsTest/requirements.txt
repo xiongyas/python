@@ -1,0 +1,10 @@
+pytest-html
+pytest-xdist
+pytest-ordering
+pytest-returnFailures
+pytest-base_url
+allure-pytest
+requests
+pytest
+pyyaml
+pymysql
