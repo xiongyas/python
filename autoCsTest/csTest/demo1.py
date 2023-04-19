@@ -4,4 +4,5 @@
 #  runpy(jdz_path)
 import os
 cur = os.times()
+#fgfgfghdfgh
 print("当前时间：%s" %cur[1])
