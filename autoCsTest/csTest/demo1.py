@@ -1,3 +1,8 @@
-# ¶¨ÒåÏà¹Ø²ÎÊı
+#-- coding:utf8 --
+# å®šä¹‰ç›¸å…³å‚æ•°
 #  jdz_path = r"D:\zd_xnzq_gm\TdxW.exe"
 #  runpy(jdz_path)
+import os,threading
+cur = os.times()
+
+print ("å½“å‰æ—¶é—´ï¼š%s" %cur[1])
